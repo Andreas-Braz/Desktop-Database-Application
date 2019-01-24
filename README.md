@@ -1,1 +1,1 @@
-A desktop app written in Python and using SQLite database. The program simulates a database for storing books. It can be easily adapted according to other needs
+A desktop app written in Python and using SQLite database. The program simulates a database for storing books. It can be easily adapted according to other needs. The executable can be found in the "Disc" folder and you don't need to have Python installed in your machine to run it.
